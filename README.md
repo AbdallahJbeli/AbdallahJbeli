@@ -8,8 +8,8 @@ Hello, I'm Abdallah Jbeli, a student of computer systems development passionate 
 
 ## Contact Me
 - 📧 Email: abdallahjbeli55@gmail.com
-- 💬 [LinkedIn](https://www.linkedin.com/in/abdallah-jbeli/)
-- 📷 [Instagram](https://www.instagram.com/abdallah_jbeli/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/abdallah-jbeli-4b8900272/)
+- 📷 [Instagram](https://www.instagram.com/abdal_lahjbeli/?hl=en)
 
 Let's connect and discuss exciting projects!
 
