@@ -2,7 +2,7 @@
 
 Hello, I'm Abdallah Jbeli, a student of computer systems development passionate about learning and implementing web technologies.
 
-- 🌐 Skills: HTML, CSS, JavaScript, React, PHP, Angular...
+- 🌐 Skills: HTML, CSS, bootstrap, JavaScript, Node.Js React, React Native, ...
 - 🔍 Looking for: Project opportunities to apply and expand my skills
 - 🚀 Open to collaboration and eager to take on new challenges
 
